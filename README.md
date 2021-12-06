@@ -16,6 +16,6 @@ I have used html and css style styles to create my portfolio.
 
 ## Link to live site
 
-[DenisKiarie](https://github.com/DenisKiarie/Independent-Project.git)
+[DenisKiarie](https://deniskiarie.github.io/Independent-Project/)
 
 
