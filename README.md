@@ -18,4 +18,8 @@ I have used html and css style styles to create my portfolio.
 
 [DenisKiarie](https://deniskiarie.github.io/Independent-Project/)
 
+## Licence & Copyright
+
+Licensed under the [MIT License](LICENSE).
+
 
